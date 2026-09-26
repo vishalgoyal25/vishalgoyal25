@@ -11,6 +11,11 @@
   <a href="mailto:vishal25goyal25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center">
+  <a href="https://buymeacoffee.com/vishalgoyal25"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
+  <a href="https://ko-fi.com/vishalgoyal25"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white" alt="Ko-fi"></a>
+</p>
+
 ---
 
 Full-stack AI engineer who owns systems end to end — backend-first.
